@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@tekichan](https://github.com/tekichan)
 - 👀 I’m interested in AWS, Java and Python.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on any interesting project.
+- 🇬🇧 I'm working in the UK.
 - 📫 How to reach me: [Teki Chan in LinkedIn](https://www.linkedin.com/in/tekichan/)
 
 <!---
@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 💼 Project Showcase
+  - [Streaming Data Pipeline in AWS Serverless](https://github.com/tekichan/clickstream-collector) 
   - [Statistics Tutorial in Jupyter](https://github.com/tekichan/statistics-tutorial)
   - [Object Oriented Design principles in Java](https://github.com/tekichan/stockmgr-demo)
   - [AWS vs Azure for Web Hosting](https://github.com/tekichan/catalog-example)
